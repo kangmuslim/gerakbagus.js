@@ -1,0 +1,2 @@
+# gerakbagus.js
+gerakbagus
